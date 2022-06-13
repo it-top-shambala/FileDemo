@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDemo.FileStreamExample", "FileDemo.FileStreamExample\FileDemo.FileStreamExample.csproj", "{CBFDDF34-F0FE-40D7-B6FE-528CB88943F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDemo.StreamReaderAndWriterExample", "FileDemo.StreamReaderAndWriterExample\FileDemo.StreamReaderAndWriterExample.csproj", "{36113629-436F-4A61-A3DB-FDE38545286E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFDDF34-F0FE-40D7-B6FE-528CB88943F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFDDF34-F0FE-40D7-B6FE-528CB88943F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFDDF34-F0FE-40D7-B6FE-528CB88943F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFDDF34-F0FE-40D7-B6FE-528CB88943F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36113629-436F-4A61-A3DB-FDE38545286E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36113629-436F-4A61-A3DB-FDE38545286E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36113629-436F-4A61-A3DB-FDE38545286E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36113629-436F-4A61-A3DB-FDE38545286E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
